@@ -19,4 +19,4 @@ I am a recent Data Science graduate with a deep passion for **performance engine
 
 📫 **How to reach me:**
 - **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/swapyg/)
-- **Email:** [Your Professional Email Address] (swapnilg768@gmail.com)
+- **Email:** [swapnilg768@gmail.com] 
