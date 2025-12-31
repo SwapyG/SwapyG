@@ -3,7 +3,7 @@
 
 A systems-level architect specializing in the vertical integration of AI—from silicon-level GPU acceleration (CUDA, Metal) to sentient strategic layers. I build high-performance, latency-critical neural operating systems that automate command and control for elite organizations. My work focuses on delivering 2-5x performance gains through first-principles engineering and custom kernel optimization.
 
-[LinkedIn](https://www.linkedin.com/in/swapyg/) | [Email](mailto:swapnilg768@gmail.com) | [Production OS](https://lnkd.in/gJsUEZ-r)
+[LinkedIn](https://www.linkedin.com/in/swapyg/) | [Email](mailto:swapnilg768@gmail.com) | [Production OS](https://the-guild-frontend.vercel.app/)
 
 ---
 
