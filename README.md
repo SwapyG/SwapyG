@@ -1,4 +1,3 @@
-# Swapnil Gaikwad
 **Principal Architect | Neural Infrastructure & High-Performance AI Systems**
 
 A systems-level architect specializing in the vertical integration of AI—from silicon-level GPU acceleration (CUDA, Metal) to sentient strategic layers. I build high-performance, latency-critical neural operating systems that automate command and control for elite organizations. My work focuses on delivering 2-5x performance gains through first-principles engineering and custom kernel optimization.
