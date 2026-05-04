@@ -1,39 +1,92 @@
-**Principal Architect | Neural Infrastructure & High-Performance AI Systems**
+# Swapnil Gaikwad  
+**AI Systems Engineer | Backend & High-Performance AI Systems**
 
-A systems-level architect specializing in the vertical integration of AI—from silicon-level GPU acceleration (CUDA, Metal) to sentient strategic layers. I build high-performance, latency-critical neural operating systems that automate command and control for elite organizations. My work focuses on delivering 2-5x performance gains through first-principles engineering and custom kernel optimization.
+I design and build production-grade AI systems end-to-end — from backend infrastructure and data pipelines to LLM-integrated applications and performance-optimized inference systems.
 
-[LinkedIn](https://www.linkedin.com/in/swapyg/) | [Email](mailto:swapnilg768@gmail.com) | [Production OS](https://the-guild-frontend.vercel.app/)
+My work focuses on:
+- scalable system architecture  
+- real-time data processing  
+- LLM-based decision systems  
+- performance optimization (CUDA, TensorRT, Metal)
 
----
-
-## Core Strategic Proficiencies
-
-*   **Neural Infrastructure:** RAG Architecture, Agentic Workflows, Vectorized Intelligence Pipelines, Strategic Reasoning Layers.
-*   **GPU Acceleration:** C++, CUDA, Metal, NVIDIA TensorRT, Core ML, Kernel Fusion, Memory Management, FP16/INT8 Quantization.
-*   **Systems Engineering:** FastAPI (Async), Next.js, PostgreSQL (pgvector), WebSocket Gateways, Monte Carlo Financial Simulations.
-*   **Performance Profiling:** 12ms Latency Optimization, Non-blocking Async Kernels, Hardware-Specific Inference Tuning.
-
----
-
-## Primary Architectural Weapon: ZERATUL.OS
-**Founder & Lead Architect | Neural Operating System for the Post-Job Economy**
-*Architected a sovereign command-and-control layer that replaces traditional management with a 5-Agent Neural Core.*
-
-*   **The Vantage Core:** Engineered five specialized AI agents (Genesis, Oracle, Sentinel, Headhunter, Omniscient) to automate mission planning, talent ingestion, and real-time risk auditing.
-*   **12ms Neural Engine:** Optimized the RAG (Retrieval-Augmented Generation) pipeline to achieve a baseline **12ms latency** using a hybrid sidecar architecture and SQL-native telemetry.
-*   **Predictive Telemetry:** Implemented a **Monte Carlo Financial Velocity** engine to project organization insolvency and capital runway in real-time, providing executive-level clarity.
-*   **Sovereign Ingest:** Built a neural recruitment pipeline that vectorizes unstructured PDF data into a live intelligence map, eliminating traditional hiring bias.
+🔗 [LinkedIn](https://www.linkedin.com/in/swapyg/)  
+📧 [Email](mailto:swapnilg768@gmail.com)  
+🚀 [Live System (Helmric)](helmric.com)
 
 ---
 
-## Foundational Engineering Research
+## Core Expertise
 
-### GPU-Optimized Diffusion for Apple Silicon (Metal/Core ML)
-*Ported and natively optimized CUDA-based computational models for the Apple Neural Engine.*
-*   **Multi-Tiered Backend:** Engineered custom C++/Metal kernels for low-level operation fusion, achieving a **2x inference speedup** over standard PyTorch MPS baselines.
-*   **Architectural Stability:** Resolved low-level memory corruption (`segfault`, `malloc`) by implementing a custom CPU-GPU data bridge and robust memory management.
+**Backend & Systems**
+- FastAPI, Async Architecture, REST APIs, WebSockets
+- Event-driven systems and background workers
+- Multi-tenant architecture and API design
 
-### High-Performance Image Synthesis (CUDA/TensorRT)
-*Deployed custom CUDA C++ kernels to overhaul VRAM efficiency and generation speed.*
-*   **Efficiency Gains:** Reduced VRAM footprint by **40%** through a novel memory-efficient attention mechanism.
-*   **Inference Acceleration:** Achieved a **5x acceleration** in model inference through strategic NVIDIA TensorRT integration and quantization-aware training.
+**AI Systems**
+- LLM integration, RAG pipelines, AI agents
+- Structured outputs and decision-support systems
+
+**Infrastructure**
+- PostgreSQL, Redis, AWS, Docker
+- Data ingestion pipelines (Jira, GitHub, Slack)
+
+**Performance Engineering**
+- CUDA, TensorRT, Core ML
+- Memory optimization and inference acceleration
+
+---
+
+## 🚀 Featured Project — Helmric (The Guild)
+
+**Full-stack AI execution intelligence platform**
+
+A production-grade system designed to analyze operational data, compute execution signals, and assist decision-making using AI.
+
+### Key Capabilities
+
+- Built full-stack system using **FastAPI, PostgreSQL, Redis, Next.js**
+- Designed **100+ API endpoints** across multi-tenant architecture
+- Developed **deterministic analytics engine** (burn rate, utilization, risk)
+- Implemented **AI agent workflows** for analysis and decision support
+- Built **event-driven async processing system**
+- Integrated external tools (**Jira, GitHub, Slack**) for data ingestion
+- Deployed using **AWS, Vercel, containerized services**
+
+👉 Live demo: https://the-guild-frontend.vercel.app/
+
+---
+
+## ⚙️ Engineering Projects
+
+### GPU-Optimized Diffusion Model (CUDA / TensorRT)
+- Achieved **2–3x performance improvement** over PyTorch baseline
+- Reduced VRAM usage by **40%**
+- Accelerated inference by **~5x** using TensorRT
+
+### Apple Silicon Optimization (Metal / Core ML)
+- Ported CUDA-based model to Apple Metal framework
+- Built custom kernels for performance optimization
+- Achieved **~2x inference speedup**
+
+### Acoustic Traffic Monitoring (Edge AI)
+- Designed Spiking Neural Network (SNN)
+- Achieved **87% accuracy** under low-power constraints
+- Built quantization-aware training pipeline
+
+---
+
+## 📌 What I Focus On
+
+- Building real systems, not prototypes  
+- Performance-first engineering  
+- End-to-end ownership (backend → infra → AI)  
+- Systems that operate in production environments  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/swapyg/  
+- Email: swapnilg768@gmail.com  
+
+---
