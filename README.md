@@ -52,7 +52,7 @@ A production-grade system designed to analyze operational data, compute executio
 - Integrated external tools (**Jira, GitHub, Slack**) for data ingestion
 - Deployed using **AWS, Vercel, containerized services**
 
-👉 Live demo: https://the-guild-frontend.vercel.app/
+👉 Live demo: [https://helmric.com/]
 
 ---
 
